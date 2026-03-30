@@ -1,5 +1,4 @@
-# my-repo
-Junior Growth
+
 # Cursor setup and GitHub submission
 
 ## Overview
